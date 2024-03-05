@@ -4,4 +4,4 @@ Implements methods for creating AES and RSA keys, Encryption and Decryption with
 
 
 Simple digram showing the flow of the program: 
-![alt text]([http://url/to/img.png](https://i.gyazo.com/2d56309988344cc8fbbe120a9b415717.png)https://i.gyazo.com/2d56309988344cc8fbbe120a9b415717.png)
+![alt text](https://i.gyazo.com/2d56309988344cc8fbbe120a9b415717.png)https://i.gyazo.com/2d56309988344cc8fbbe120a9b415717.png)
